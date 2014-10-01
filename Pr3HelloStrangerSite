@@ -1,0 +1,27 @@
+<!--Write an HTML page like the image below (use headings, <div>, paragraphs and <ul>):-->
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Runners Home</title>
+	</head>
+	<body>
+		<br>
+		<p><div style="8px">Hello,Stranger!</div><p>
+		</br>
+		<h1><strong><div style="24px">Welcome To Runners Home &#8482 </div></strong></h1>
+		<br> </br>
+		<h2>Runners Home &#8482 is dedicated to providing you with:</h2>
+			<ul type="disc"> 
+			<li> the most up-to-date information on running races.</li>
+			<li> the best resources for runners.</li>
+			</ul>
+			<br></br>				
+			<hr width="100%" size="3px"/>
+			<footer>
+			<p>&#169 Runners Home.All rights reserved.</p>
+			</footer>
+	</body>
+</html>
