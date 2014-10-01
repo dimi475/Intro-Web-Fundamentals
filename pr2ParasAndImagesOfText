@@ -1,0 +1,33 @@
+<!-- Create an HTML page holding a few headings, each with a few paragraphs of text. Insert a few images. 
+Play with the old formatting tags <b>, <i>, <u>, <strong>, <em>, <sup>, <sub>, <pre>, <br /> etc. 
+Ensure you have <doctype>, <html>, <head>, <title> and <body>./> -->
+
+
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>playWithHtml</title>
+	</head>
+	<body>
+		<h1><em>START PAGE ONE</em></h1>
+		<br/>
+		<h3><strong>I am start feeding</strong><h3>
+		<h4><a href="http://www.nationalgeographic.bg"> go to NG website</a>
+		<br/>
+		<p><strong>I like to eat smal fish, seales and other small oceanlinghs.</br>
+		People call me killerwhale because of that.But I never attack humans.</strong></p>
+		<div><img src="images/Killer-Whale1.jpg" width="300" height="225" img title="Killer-Whale.jpg"/></div>
+		</br>
+		</br>
+		</br>
+		</br>
+		<div>this is the end of page</div>
+		
+		
+	</body>
+
+
+</html>
+
+
